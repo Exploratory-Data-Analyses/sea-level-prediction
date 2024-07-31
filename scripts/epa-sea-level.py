@@ -1,9 +1,6 @@
 '''
     This is a simple program to analyze a dataset of the global
     average sea level change since 1880 and make predictions
-
-    Ref: FreeCodeCamp.org - Data Analysis with Python Projects
-         Project #5: Sea Level Predictor
 '''
 
 import pandas as pd
