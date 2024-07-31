@@ -7,7 +7,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.stats import linregress
 
-df = pd.read_csv('epa-sea-level.csv')
+df = pd.read_csv('data/epa-sea-level.csv')
 x = df['Year']
 y = df['CSIRO Adjusted Sea Level']
 
@@ -53,5 +53,5 @@ plt.xlabel('Year')
 plt.ylabel('Sea Level (inches)')
 plt.title('Rise in Sea Level (from 2000)')
 plt.legend()
-plt.savefig('output-figures/sea-level-prediction.jpg')
+plt.savefig('figures/forecast.jpg')
 plt.show()
