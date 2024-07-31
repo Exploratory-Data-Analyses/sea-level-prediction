@@ -24,7 +24,8 @@ sea-level-analysis/
 │   └── results.md
 │
 ├── figures/
-│   └── forecast.jpg
+│   ├── forecast.jpg
+│   └── sea-level-recent.jpg
 │
 ├── scripts/
 │   └── analysis.py
@@ -43,6 +44,7 @@ sea-level-analysis/
 
 - **figures/**: Generated plots/visualizations from the scripts.
   - `forecast.jpg`: Visualization of the sea level predictions.
+  - - `sea-level-recent.jpg`: Visualization of the current sea level.
 
 - **scripts/**: Python scripts for data processing and analysis.
   - `analysis.py`: Main script for performing the analysis and generating plots.
