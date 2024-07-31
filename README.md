@@ -81,7 +81,7 @@ The script includes robust error handling to manage common issues:
 - **General Exceptions**: Catches and reports unexpected errors.
 
 ## Results
-The resulting figure `sea-level-prediction.jpg` shows two plots:
+The output figures shows two plots:
 1. **Overall Analysis**: Displays the scatter plot and line of best fit for the entire dataset, including a prediction for 2050.
 2. **Recent Analysis**: Displays the scatter plot and line of best fit starting from the year 2000, showing recent trends in sea level rise.
 
