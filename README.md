@@ -2,7 +2,7 @@
 
 ## Overview
 This project performs a comprehensive analysis of the global average sea level change since 1880 and makes predictions for future 
-changes using linear regression. The dataset used for this analysis is sourced from the Environmental Protection Agency (EPA).
+changes using linear regression. The dataset used for this analysis is sourced from [FreeCodeCamp's Data Analysis with Python Projects](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor).
 
 ## About Dataset
 The dataset `epa-sea-level.csv` contains the following columns:
